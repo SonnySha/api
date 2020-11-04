@@ -1,12 +1,17 @@
+// 20201104160105
+// https://jsonplaceholder.typicode.com/todos/
+
 [
   {
-    "title": "roundabout",
-    "urlSong": "http://localhost/apisongs/songs/roundabout.mp3",
-    "img": "delectus aut autem"
+    "userId": 1,
+    "id": 1,
+    "title": "delectus aut autem",
+    "completed": false
   },
   {
-    "title": "shaka-ponk",
-    "urlSong": "http://localhost/apisongs/songs/shaka-ponk.mp3",
-    "img": "delectus aut autem"
-  }
+    "userId": 1,
+    "id": 2,
+    "title": "quis ut nam facilis et officia qui",
+    "completed": false
+  },
 ]
