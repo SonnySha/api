@@ -1,12 +1,12 @@
 [
   {
-    "title": 'roundabout',
-    "urlSong": 'http://localhost/apisongs/songs/roundabout.mp3',
+    "title": "roundabout",
+    "urlSong": "http://localhost/apisongs/songs/roundabout.mp3",
     "img": "delectus aut autem"
   },
   {
-    "title": 'shaka-ponk',
-    "urlSong": 'http://localhost/apisongs/songs/shaka-ponk.mp3',
+    "title": "shaka-ponk",
+    "urlSong": "http://localhost/apisongs/songs/shaka-ponk.mp3",
     "img": "delectus aut autem"
   }
 ]
