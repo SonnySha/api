@@ -1,26 +1,27 @@
 [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
- ]
+  {
+    title:'Bad kind of mongrel',
+    urlSong: "http://memorykeeper.fr/musiques/songs/bad-kind-of-mongrel.mp3",
+                    img: "http://memorykeeper.fr/musiques/images/bad-kind-of-mongrel.jpg"
+                },
+                {
+                    title:'My summer love',
+                    urlSong: "http://memorykeeper.fr/musiques/songs/my-summer-love.mp3",
+                    img: "http://memorykeeper.fr/musiques/images/my-summer-love.jpg"
+                },
+                {
+                    title:'Roundabout',
+                    urlSong: "http://memorykeeper.fr/musiques/songs/roundabout.mp3",
+                    img: "http://memorykeeper.fr/musiques/images/roundabout.jpg"
+                },
+                {
+                    title:'Hungry',
+                    urlSong: "http://memorykeeper.fr/musiques/songs/hungry.mp3",
+                    img: "http://memorykeeper.fr/musiques/images/hungry.jpg"
+                },
+                {
+                    title:'Disco',
+                    urlSong: "http://memorykeeper.fr/musiques/songs/disco-kid.mp3",
+                    img: "http://memorykeeper.fr/musiques/images/disco-kid.jpg"
+                },
+]
